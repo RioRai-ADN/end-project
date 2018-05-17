@@ -1,0 +1,196 @@
+11-May-2018 17:12:28.387 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.29
+11-May-2018 17:12:28.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 5 2018 13:11:12 UTC
+11-May-2018 17:12:28.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.29.0
+11-May-2018 17:12:28.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+11-May-2018 17:12:28.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+11-May-2018 17:12:28.391 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+11-May-2018 17:12:28.391 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_144\jre
+11-May-2018 17:12:28.391 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_144-b01
+11-May-2018 17:12:28.391 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+11-May-2018 17:12:28.391 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29
+11-May-2018 17:12:28.391 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29
+11-May-2018 17:12:28.392 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\conf\logging.properties
+11-May-2018 17:12:28.392 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+11-May-2018 17:12:28.392 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-KKHKH84
+11-May-2018 17:12:28.392 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+11-May-2018 17:12:28.392 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+11-May-2018 17:12:28.392 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+11-May-2018 17:12:28.392 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29
+11-May-2018 17:12:28.392 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29
+11-May-2018 17:12:28.393 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\temp
+11-May-2018 17:12:28.393 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+11-May-2018 17:12:28.393 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+11-May-2018 17:12:28.393 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+11-May-2018 17:12:29.217 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+11-May-2018 17:12:29.930 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-1000"]
+11-May-2018 17:12:30.449 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+11-May-2018 17:12:30.468 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+11-May-2018 17:12:30.471 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+11-May-2018 17:12:30.471 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 4728 ms
+11-May-2018 17:12:30.590 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+11-May-2018 17:12:30.590 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.29
+11-May-2018 17:12:30.620 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\conf\Catalina\localhost\WebThiTuLuan.xml]
+11-May-2018 17:12:32.348 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-May-2018 17:12:33.029 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\conf\Catalina\localhost\WebThiTuLuan.xml] has finished in [2,409] ms
+11-May-2018 17:12:33.030 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\docs]
+11-May-2018 17:12:33.083 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\docs] has finished in [53] ms
+11-May-2018 17:12:33.083 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\examples]
+11-May-2018 17:12:34.405 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\examples] has finished in [1,322] ms
+11-May-2018 17:12:34.406 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\host-manager]
+11-May-2018 17:12:34.521 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\host-manager] has finished in [116] ms
+11-May-2018 17:12:34.521 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\manager]
+11-May-2018 17:12:34.651 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\manager] has finished in [130] ms
+11-May-2018 17:12:34.651 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\ROOT]
+11-May-2018 17:12:34.684 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\ROOT] has finished in [33] ms
+11-May-2018 17:12:34.688 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-1000"]
+11-May-2018 17:12:34.698 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+11-May-2018 17:12:34.702 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 4230 ms
+11-May-2018 17:43:28.003 WARNING [http-nio-1000-exec-5] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebThiTuLuan] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+11-May-2018 17:43:29.647 INFO [http-nio-1000-exec-10] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 17:43:29.881 INFO [http-nio-1000-exec-10] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 17:43:31.274 INFO [http-nio-1000-exec-6] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 17:43:31.471 INFO [http-nio-1000-exec-6] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 17:43:35.200 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.reload Reloading context [/WebThiTuLuan]
+11-May-2018 17:43:35.200 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 17:43:35.357 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 17:49:25.333 INFO [http-nio-1000-exec-15] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 17:49:25.510 INFO [http-nio-1000-exec-15] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 17:53:01.759 INFO [http-nio-1000-exec-24] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 17:53:01.971 INFO [http-nio-1000-exec-24] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 17:53:48.890 INFO [http-nio-1000-exec-21] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 17:53:49.043 INFO [http-nio-1000-exec-21] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 17:54:24.882 INFO [http-nio-1000-exec-23] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 17:54:25.031 INFO [http-nio-1000-exec-23] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 17:55:45.268 INFO [http-nio-1000-exec-27] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 17:55:45.501 INFO [http-nio-1000-exec-27] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 17:56:46.718 INFO [http-nio-1000-exec-23] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 17:56:46.884 INFO [http-nio-1000-exec-23] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 17:56:53.148 INFO [http-nio-1000-exec-15] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 17:56:53.298 INFO [http-nio-1000-exec-15] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 18:07:43.506 INFO [http-nio-1000-exec-40] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 18:07:43.514 WARNING [http-nio-1000-exec-40] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebThiTuLuan] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+11-May-2018 18:07:43.665 INFO [http-nio-1000-exec-40] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 18:13:52.334 INFO [http-nio-1000-exec-43] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 18:13:52.607 INFO [http-nio-1000-exec-43] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 18:13:52.655 INFO [http-nio-1000-exec-44] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 18:13:52.872 INFO [http-nio-1000-exec-44] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 18:14:30.391 INFO [http-nio-1000-exec-49] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 18:14:30.533 INFO [http-nio-1000-exec-49] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 19:04:34.709 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+11-May-2018 19:04:38.219 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-1000"]
+11-May-2018 19:04:40.550 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+11-May-2018 19:04:40.885 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+11-May-2018 19:04:47.110 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebThiTuLuan] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+11-May-2018 19:04:47.284 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-1000"]
+11-May-2018 19:04:47.377 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+11-May-2018 19:04:47.687 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-1000"]
+11-May-2018 19:04:47.859 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+11-May-2018 20:27:44.703 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.29
+11-May-2018 20:27:44.705 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 5 2018 13:11:12 UTC
+11-May-2018 20:27:44.706 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.29.0
+11-May-2018 20:27:44.706 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+11-May-2018 20:27:44.706 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+11-May-2018 20:27:44.706 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+11-May-2018 20:27:44.706 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_144\jre
+11-May-2018 20:27:44.706 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_144-b01
+11-May-2018 20:27:44.706 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+11-May-2018 20:27:44.706 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29
+11-May-2018 20:27:44.707 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29
+11-May-2018 20:27:44.707 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\conf\logging.properties
+11-May-2018 20:27:44.707 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+11-May-2018 20:27:44.707 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-KKHKH84
+11-May-2018 20:27:44.707 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+11-May-2018 20:27:44.707 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+11-May-2018 20:27:44.707 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+11-May-2018 20:27:44.708 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29
+11-May-2018 20:27:44.708 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29
+11-May-2018 20:27:44.708 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\temp
+11-May-2018 20:27:44.708 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+11-May-2018 20:27:44.708 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+11-May-2018 20:27:44.708 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+11-May-2018 20:27:45.600 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+11-May-2018 20:27:46.482 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-1000"]
+11-May-2018 20:27:47.145 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+11-May-2018 20:27:47.175 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+11-May-2018 20:27:47.180 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+11-May-2018 20:27:47.181 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 3937 ms
+11-May-2018 20:27:47.331 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+11-May-2018 20:27:47.331 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.29
+11-May-2018 20:27:47.383 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\conf\Catalina\localhost\WebThiTuLuan.xml]
+11-May-2018 20:27:50.099 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-May-2018 20:27:50.248 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\conf\Catalina\localhost\WebThiTuLuan.xml] has finished in [2,865] ms
+11-May-2018 20:27:50.249 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\docs]
+11-May-2018 20:27:50.302 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\docs] has finished in [53] ms
+11-May-2018 20:27:50.302 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\examples]
+11-May-2018 20:27:52.457 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\examples] has finished in [2,155] ms
+11-May-2018 20:27:52.457 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\host-manager]
+11-May-2018 20:27:52.553 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\host-manager] has finished in [96] ms
+11-May-2018 20:27:52.553 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\manager]
+11-May-2018 20:27:52.691 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\manager] has finished in [137] ms
+11-May-2018 20:27:52.691 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\ROOT]
+11-May-2018 20:27:52.743 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\ROOT] has finished in [52] ms
+11-May-2018 20:27:52.749 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-1000"]
+11-May-2018 20:27:52.796 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+11-May-2018 20:27:52.800 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 5619 ms
+11-May-2018 20:46:38.004 INFO [http-nio-1000-exec-18] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 20:46:38.287 INFO [54] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 20:50:07.644 INFO [http-nio-1000-exec-21] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 20:50:07.797 INFO [http-nio-1000-exec-21] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 20:51:33.128 INFO [http-nio-1000-exec-26] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 20:51:33.286 INFO [http-nio-1000-exec-26] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 20:57:38.589 INFO [http-nio-1000-exec-32] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 20:57:38.941 INFO [http-nio-1000-exec-32] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 20:57:43.120 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.reload Reloading context [/WebThiTuLuan]
+11-May-2018 20:57:43.120 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 20:57:43.257 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 21:05:06.710 INFO [http-nio-1000-exec-43] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 21:05:06.908 INFO [http-nio-1000-exec-43] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 21:22:26.616 WARNING [http-nio-1000-exec-54] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebThiTuLuan] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+11-May-2018 21:22:28.152 INFO [http-nio-1000-exec-58] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 21:22:28.352 INFO [http-nio-1000-exec-58] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 21:22:33.505 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.reload Reloading context [/WebThiTuLuan]
+11-May-2018 21:22:33.505 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 21:22:33.646 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 21:29:46.621 INFO [http-nio-1000-exec-63] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 21:29:46.815 INFO [http-nio-1000-exec-63] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 21:43:58.734 INFO [http-nio-1000-exec-78] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 21:43:58.750 WARNING [http-nio-1000-exec-78] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebThiTuLuan] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+11-May-2018 21:43:59.096 INFO [http-nio-1000-exec-78] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 21:44:26.228 INFO [http-nio-1000-exec-76] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 21:44:26.378 INFO [http-nio-1000-exec-76] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 21:56:07.418 INFO [http-nio-1000-exec-93] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 21:56:07.431 WARNING [http-nio-1000-exec-93] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebThiTuLuan] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+11-May-2018 21:56:07.654 INFO [http-nio-1000-exec-93] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 21:56:14.761 INFO [http-nio-1000-exec-92] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 21:56:14.908 INFO [http-nio-1000-exec-92] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 21:56:56.344 INFO [http-nio-1000-exec-100] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 21:56:56.352 WARNING [http-nio-1000-exec-100] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebThiTuLuan] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+11-May-2018 21:56:56.518 INFO [http-nio-1000-exec-100] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 21:57:00.617 INFO [http-nio-1000-exec-96] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 21:57:00.793 INFO [http-nio-1000-exec-96] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 21:57:04.900 INFO [http-nio-1000-exec-96] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 21:57:05.043 INFO [http-nio-1000-exec-96] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 21:58:38.759 INFO [http-nio-1000-exec-107] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 21:58:38.772 WARNING [http-nio-1000-exec-107] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebThiTuLuan] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+11-May-2018 21:58:38.918 INFO [http-nio-1000-exec-107] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 21:58:50.978 INFO [http-nio-1000-exec-107] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 21:58:51.114 INFO [http-nio-1000-exec-107] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 22:05:08.948 INFO [http-nio-1000-exec-116] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 22:05:08.955 WARNING [http-nio-1000-exec-116] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebThiTuLuan] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+11-May-2018 22:05:09.114 INFO [http-nio-1000-exec-116] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 22:05:29.732 INFO [http-nio-1000-exec-126] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 22:05:29.876 INFO [http-nio-1000-exec-126] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 22:06:43.521 INFO [http-nio-1000-exec-130] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 22:06:43.530 WARNING [http-nio-1000-exec-130] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebThiTuLuan] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+11-May-2018 22:06:43.684 INFO [http-nio-1000-exec-130] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 22:06:52.841 INFO [http-nio-1000-exec-130] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] has started
+11-May-2018 22:06:52.978 INFO [http-nio-1000-exec-130] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebThiTuLuan] is completed
+11-May-2018 22:11:04.564 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+11-May-2018 22:11:04.564 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-1000"]
+11-May-2018 22:11:04.698 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+11-May-2018 22:11:04.821 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+11-May-2018 22:11:04.877 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebThiTuLuan] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+11-May-2018 22:11:04.884 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-1000"]
+11-May-2018 22:11:04.885 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+11-May-2018 22:11:04.887 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-1000"]
+11-May-2018 22:11:04.888 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
